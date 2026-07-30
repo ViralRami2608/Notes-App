@@ -21,7 +21,3 @@ This app allows users to create, save, and delete notes easily.
 - HTML  
 - CSS  
 - JavaScript  
-
----
-
-## 📂 Project Structure
